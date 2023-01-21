@@ -23,8 +23,8 @@ End the program
 (i) To find the L and U matrix
 ```python
 '''Program to find L and U matrix using LU decomposition.
-Developed by:Mohamed fareed
-RegisterNumber:2200
+Developed by:Mohamed Fareed
+RegisterNumber:22001617
 '''
 import numpy as np   #from numpy import array
 from scipy.linalg import lu
@@ -37,8 +37,8 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```python
 '''Program to solve a matrix using LU decomposition.
-Developed by:Vasanthamukilan.M 
-RegisterNumber:22001986
+Developed by:Mohamed Fareed 
+RegisterNumber:22001617
 '''
 # To print X matrix (solution to the equations)
 import numpy as np
